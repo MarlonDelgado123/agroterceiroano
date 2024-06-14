@@ -1,0 +1,60 @@
+/* Estilos para o corpo da página */
+/* Estilos para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('agro.jpg');
+    background-size: cover; /* Cobrir toda a área do corpo da página */
+    background-position: center;
+    color: #fff;
+}
+
+}
+
+/* Estilos para o cabeçalho */
+header {
+    background-color: rgba(0, 0, 0, 0.5); /* Fundo semi-transparente para o cabeçalho */
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+/* Estilos para a navegação */
+nav {
+    background-color: rgba(0, 0, 0, 0.7); /* Fundo semi-transparente para a navegação */
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff; /* Links com texto claro */
+}
+
+/* Estilos para a seção de conteúdo */
+section {
+    padding: 20px;
+}
+
+/* Estilos para o rodapé */
+footer {
+    background-color: rgba(0, 0, 0, 0.7); /* Fundo semi-transparente para o rodapé */
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
